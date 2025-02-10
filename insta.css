@@ -1,0 +1,128 @@
+#main{
+    width: 400px;
+    height: 359px;
+    background-color: white;
+    position: relative;
+    left: 475px;
+    border: 1px solid black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+#title{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+#userid{
+    position: relative;
+    left: 60px;
+    width: 250px;
+}
+
+#password{
+    position: relative;
+    left: 60px;
+    width: 250px;
+    margin-top: 5px;
+}
+
+#submit{
+    position: relative;
+    left: 60px;
+    width: 257px;
+    margin-top: 15px;
+    background-color: blue;
+}
+
+
+#or{
+    position: relative;
+    left: 173px;
+    color: dimgrey;
+}
+
+#facebook{
+    height: 20px;
+    position: relative;
+    left: 111px;
+    width: 20px;
+}
+
+h6{
+    position: relative;
+    left: 150px;
+    width: 104px;
+    margin-top: -19px;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    position: relative;
+    left: 143px;
+}
+
+#subclass{
+    width: 400px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+    left: 475px;
+    border: 1px solid black;
+    margin-top: 17px;
+}
+
+p{
+    width: 157px;
+    position: relative;
+    left: 105px;
+}
+
+#sign{
+    text-decoration: none;
+    position: absolute;
+    width: 53px;
+    margin-left: 125px;
+    margin-top: -34px;
+}
+
+#get{
+    position: absolute;
+    margin-left: 44px;
+}
+
+#applestore{
+    height: 83px;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 95px;
+}
+
+#playstore{
+    height: 26px;
+    position: absolute;
+    margin-top: 51px;
+    margin-left: 186px;
+}
+
+body{
+    background-color: white
+}
+
+#anchor{
+    position: relative;
+    margin-bottom: 37px;
+    width: 372px;
+    left: 344px;
+    top: 94px;
+}
+
+.about{
+    padding-right: 14px;
+}
+
+.help{
+    padding-right: 22px;
+}
